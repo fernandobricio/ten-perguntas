@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+.topo{
+    background-color: orange;
+    text-align: center;
+}
+
+.enviar{
+    color: white;
+    background-color: blueviolet;
+}
+.link{
+    text-decoration: none;
+    font-size: 300%;
+    width: 30px;
+    height: 60px;
+}
+
+.rodape{
+    background-color: gray;
+    text-align: center;
+    
+}
